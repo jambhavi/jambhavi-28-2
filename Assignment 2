@@ -1,0 +1,13 @@
+x=[1,2,1,3,2,4,2,5,4,6,5,7,6,4]
+l=[]
+list1=[]
+for i in x: 
+     if c.count(I)==1: 
+        list1.append(i)
+Print(x)
+Print (list1)
+
+
+
+Output:
+[3,7]
